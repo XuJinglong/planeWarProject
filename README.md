@@ -7,7 +7,7 @@ Note:
 
 2.The server is developped with node.js and MySQL 5.7.
 
-3.The apk under the plane-war\planeWar\proj.android-studio\app\release directory has been installed successfully on android 7.
+3.The install file planeWar-release.apk has been installed successfully on android 7.
 
 4.You may need change some codes in planeWarServer.js when using it as a game server and create your own MySQL database.
 
